@@ -2,8 +2,6 @@
 # Midia_Kit_Web
 > **Itens de mídia**
 
-![Group 22](https://user-images.githubusercontent.com/81815495/118192585-c01ad500-b41c-11eb-87e0-2e032704d5fb.png)
-
 * Design [Figma](https://www.figma.com/file/ckg5s9jHXYXbtZzsfM1OC9/Kit-de-M%C3%ADdia-Web?node-id=0%3A1)
 
 **Caminho** 👇
@@ -22,6 +20,5 @@ GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 * GitHub
 * Microsoft
 
-## Ícones
 
-
+![Group 22](https://user-images.githubusercontent.com/81815495/118192585-c01ad500-b41c-11eb-87e0-2e032704d5fb.png)
