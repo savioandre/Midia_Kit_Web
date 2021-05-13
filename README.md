@@ -6,7 +6,7 @@
 
 **Caminho** 👇
 ```~md
-GitHub > savioandre > Kit de Mídia Web > Kit de Mídia Web
+GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 ```
 
 ## Arquivos de Logo 💖 
