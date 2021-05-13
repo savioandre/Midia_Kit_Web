@@ -14,6 +14,9 @@
 * Google
 * WhatsApp
 * Youtube
+* GitHub
+* Microsoft
+* Youtube
 
 ## Ícones
 
