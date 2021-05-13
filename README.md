@@ -16,7 +16,6 @@
 * Youtube
 * GitHub
 * Microsoft
-* Youtube
 
 ## Ícones
 
