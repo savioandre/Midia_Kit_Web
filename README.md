@@ -22,7 +22,7 @@ GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 
 > Html
  
-**Inserindo em [`Html`]**
+**Inserindo em ` Html `**
 ```html
 <img href="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Outlook/Outlook_Logo.png?raw=true">
 ```
