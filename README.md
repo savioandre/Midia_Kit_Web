@@ -20,5 +20,9 @@ GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 * GitHub
 * Microsoft
 
+> Html
+```html
+<img href="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Outlook/Outlook_Logo.png?raw=true">
+```
 
 ![Group 22](https://user-images.githubusercontent.com/81815495/118192585-c01ad500-b41c-11eb-87e0-2e032704d5fb.png)
