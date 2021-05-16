@@ -10,7 +10,7 @@ GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 
 ## Arquivos de Logo 💖 
 [`Kit de Mídia Web`](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web) 
-* Instagram()
+* [Instagram](Kit de Mídia Web/Instagram)
 * Facebook
 * Twitter
 * Google
