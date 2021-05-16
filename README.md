@@ -10,14 +10,20 @@ GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 
 ## Arquivos de Logo 💖 
 [`Kit de Mídia Web`](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web) 
+* [Facebook](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Facebook)<br>
+* [GitHub](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/GitHub)<br>
+* [Google](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Google)<br>
 * [Instagram](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Instagram)<br>
-* [Facebook](Kit de Mídia Web#Facebook)
-* [Twitter]()
-* [Google]()
-* [WhatsApp]()
-* [Youtube]()
-* [GitHub]()
-* [Microsoft]()
+* [Linkedin](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Linkedin)<br>
+* [Microsoft](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Microsoft)<br>
+* [Netflix](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Netflix)<br>
+* [Outlook](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Outlook)<br>
+* [Spotify](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Spotify)<br>
+* [VsCode](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/VsCode)<br>
+* [Twitter](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Twitter)<br>
+* [WhatsApp](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/WhatsApp)<br>
+* [Youtube](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Youtube)<br>
+---
 
 
 #
