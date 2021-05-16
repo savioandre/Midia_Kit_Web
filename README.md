@@ -23,10 +23,9 @@ GitHub > savioandre > Midia_Kit_Web > Kit de Mídia Web
 * [Twitter](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Twitter)<br>
 * [WhatsApp](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/WhatsApp)<br>
 * [Youtube](https://github.com/savioandre/Midia_Kit_Web/tree/main/Kit%20de%20M%C3%ADdia%20Web/Youtube)<br>
----
 
-> Html
- 
+<h2>Html</h2>
+
 **Inserindo em ` Html `**
 ```html
 <img href="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Outlook/Outlook_Logo.png?raw=true">
